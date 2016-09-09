@@ -1,0 +1,42 @@
+#container {
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: grey;
+	font-size: 0;
+}
+
+#a, #b, #c, #d, #e {
+	border: 1px black solid;
+	display: inline-block;
+}
+
+#a {
+	width: 50%;
+	height: 200px;
+	background-color: green;
+}
+
+#b {
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+}
+
+#c {
+	width: 33.33%;
+	height: 300px;
+	background-color: gray;
+}
+
+#d {
+	width: 33.33%;
+	height: 300px;
+	background-color: black;
+}
+
+#e {
+	width: 33.33%;
+	height: 300px;
+	background-color: orange;
+}
